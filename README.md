@@ -1,6 +1,6 @@
 # Hi 👋, I'm Caio Augusto
 
-🚀 **Trainee Software Engineer | JavaScript**  
+🚀 **Trainee Software Engineer**  
 🇧🇷 Brazil
 
 Software engineering **Student** with a focus on **Front** & **Backend Development**.
